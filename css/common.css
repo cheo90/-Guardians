@@ -1,0 +1,14 @@
+.blind {
+    position: absolute;
+    width: 1px;
+    left: 1px;
+    clip: rect(0 0 0 0);
+    margin: -px;
+    overflow: hidden;
+}
+
+
+.inner {
+    max-width: 1410px;
+    margin: 0 auto;
+}
